@@ -1,2 +1,2 @@
-# SpinOffs-
-ddds
+# SpinOffs
+jQuery Video Series and SpinOffs 
